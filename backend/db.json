@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "0f52",
+      "username": "Jatin hasija",
+      "email": "hasijajatin02@gmail.com",
+      "password": "hasija02",
+      "dob": "2001-09-01"
+    },
+    {
+      "id": "c067",
+      "username": "Jatin hasijakjkbb",
+      "email": "hasijajatin02@gmail.com",
+      "password": "asgh",
+      "dob": "2201-09-01"
+    }
+  ]
+}
