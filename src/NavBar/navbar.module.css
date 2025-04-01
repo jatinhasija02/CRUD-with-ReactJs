@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+nav {
+  display: flex;
+  gap: 34px;
+  justify-content: space-around;
+  background-color: #1a1a1a;
+  color: white;
+}
+a li {
+  color: rgb(244, 244, 244);
+}
+h1 {
+  color: white;
+  list-style: none;
+  padding: 23px;
+}
+.red {
+  background-color: red;
+  color: white;
+}

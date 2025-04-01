@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "abc",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "dob": "1990-01-15"
+    },
+    {
+      "id": "jkl012",
+      "name": "Bob BOI",
+      "username": "bobbrown",
+      "email": "bob@example.com",
+      "phone": "444-987-6543",
+      "dob": "1995-12-01"
+    },
+    {
+      "id": "pqr678",
+      "name": "David Clark",
+      "username": "davidc",
+      "email": "david@example.com",
+      "phone": "666-555-4444",
+      "dob": "1993-03-25"
+    },
+    {
+      "id": "stu901",
+      "name": "Emma Harris",
+      "username": "emmah",
+      "email": "emma@example.com",
+      "phone": "777-888-9999",
+      "dob": "1991-11-30"
+    },
+    {
+      "id": "vwx234",
+      "name": "Frank White",
+      "username": "frankw",
+      "email": "frank@example.com",
+      "phone": "999-000-1111",
+      "dob": "1987-06-17"
+    },
+    {
+      "id": "yz5678",
+      "name": "Grace Lee",
+      "username": "gracel",
+      "email": "grace@example.com",
+      "phone": "123-789-4560",
+      "dob": "1994-08-22"
+    },
+    {
+      "id": "bcd910",
+      "name": "Henry Moore",
+      "username": "henrym",
+      "email": "henry@example.com",
+      "phone": "321-654-9870",
+      "dob": "1996-02-12"
+    },
+    {
+      "id": "efg111",
+      "name": "Isabella Scott",
+      "username": "isabellas",
+      "email": "isabella@example.com",
+      "phone": "741-852-9630",
+      "dob": "1997-10-05"
+    },
+    {
+      "id": "hij222",
+      "name": "Jack Taylor",
+      "username": "jackt",
+      "email": "jack@example.com",
+      "phone": "258-369-1470",
+      "dob": "1986-04-29"
+    },
+    {
+      "id": "klm333",
+      "name": "Katherine Adams",
+      "username": "katadams",
+      "email": "katherine@example.com",
+      "phone": "369-147-2580",
+      "dob": "1989-01-18"
+    },
+    {
+      "id": "nop444",
+      "name": "Leo Turner",
+      "username": "leot",
+      "email": "leo@example.com",
+      "phone": "159-357-4860",
+      "dob": "1998-07-23"
+    },
+    {
+      "id": "qrs555",
+      "name": "Mia Walker",
+      "username": "miaw",
+      "email": "mia@example.com",
+      "phone": "654-321-7890",
+      "dob": "1990-09-14"
+    }
+  ]
+}
